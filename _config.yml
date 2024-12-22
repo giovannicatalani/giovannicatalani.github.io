@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+plugins:  - jekyll-remote-themeremote_theme           : "mmistakes/minimal-mistakes"minimal_mistakes_skin    : "dark" #%20%22air%22,%20%22aqua%22,%20%22contrast%22,%20%22dark%22,%20%22dirt%22,%20%22neon%22,%20%22mint%22,%20%22plum%22,%20%22sunrise%22
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Giovanni Catalani"
@@ -146,6 +148,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - assets
 keep_files:
   - .git
   - .svn
@@ -208,7 +211,7 @@ defaults:
       author_profile: true
       share: true
 
-theme: minimal-mistakes-jekyll
+
 minimal_mistakes_skin: "dark"
 # Sass/SCSS
 sass:

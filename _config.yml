@@ -50,10 +50,11 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "giovannicatalani98@gmail.com"
+  email: 
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: 
   github: giovannicatalani
+  google-scholar: "https://scholar.google.com/citations?user=ZO1hXHEAAAAJ&hl=fr"
 # twitter: daattali
 # patreon: DeanAttali
 # youtube: "@daattali"
@@ -75,7 +76,6 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  bluesky: yourname
 #  ORCID: your ORCID ID
-   google-scholar: "https://scholar.google.com/citations?user=ZO1hXHEAAAAJ&hl=fr"
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname

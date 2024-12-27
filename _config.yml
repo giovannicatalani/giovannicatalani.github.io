@@ -21,9 +21,9 @@ author: Giovanni Catalani
 
 navbar-links:
   Bio: "aboutme"
-  CV: 
-  Research: 
-  Talks:
+  CV: "cv"
+  Research: "research"
+  Talks: "talks"
 
 ################
 # --- Logo --- #

@@ -4,8 +4,6 @@ title: CV
 subtitle: Short Version
 ---
 
-<div style="max-width: 900px; margin: 0 auto;">
-
 *This is a brief overview. [Download full CV (PDF)](/assets/files/CV_Gio_academic.pdf)*
 
 ### Experience
@@ -24,5 +22,3 @@ subtitle: Short Version
 `2017` **Italian Excellence Honours Roll** - Graduated with 100/100 cum laude  
 `2016` **Finalist Italian Physics Olympiad** - National Stage, top 100 of 40k contestants  
 `2015` **Finalist Italian Math Olympiad** - National Stage, Individual and Team Captain
-
-</div>

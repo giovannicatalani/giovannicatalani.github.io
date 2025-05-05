@@ -17,12 +17,18 @@ title: Research
 ### Neural Fields for Rapid Aircraft Aerodynamics Simulations (2024)
 *Scientific Reports, Vol. 14(1), pp. 25496*
 
+![aeronefpaper cover](/assets/img/aero_nef_cover.png){: width="600px" }
+
+
 **Abstract:** This paper presents a methodology to learn surrogate models of steady state fluid dynamics simulations on meshed domains, based on Implicit Neural Representations (INRs). The proposed models can be applied directly to unstructured domains for different flow conditions, handle non-parametric 3D geometric variations, and generalize to unseen shapes at test time... [shortened for brevity]
 
 [Paper PDF](https://www.nature.com/articles/s41598-024-76983-w) | [Code](https://gitlab.isae-supaero.fr/gi.catalani/aero-nepf) | [Data](https://gitlab.isae-supaero.fr/gi.catalani/aero-nepf)
 
 ### A Comparative Study of Learning Techniques for the Compressible Aerodynamics over a Transonic RAE2822 Airfoil (2023)
 *Computers & Fluids*
+
+![pgnet paper cover](/assets/img/pgnet_cover.png){: width="600px" }
+
 
 **Abstract:** In this study, the modeling of the compressible pressure field on the RAE 2822 airfoil using deep learning (DL) is investigated. The objective is to generate, at low cost, the complete Mach envelope from a given aerodynamic database... [shortened for brevity]
 

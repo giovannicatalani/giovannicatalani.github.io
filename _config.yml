@@ -20,7 +20,7 @@ author: Giovanni Catalani
 ###############################################
 
 navbar-links:
-  Bio: "aboutme"
+  # Bio: "aboutme"
   CV: "cv"
   Research: "research"
   Talks: "talks"

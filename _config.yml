@@ -52,8 +52,8 @@ social-network-links:
   email: giovannicatalani98@gmail.com
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: giovannicatalani
-  google-scholar: "https://scholar.google.com/citations?user=ZO1hXHEAAAAJ&hl=fr"
-  linkedin: https://www.linkedin.com/in/giovanni-catalani-2a87a4136/
+  google-scholar: "ZO1hXHEAAAAJ"
+  linkedin: "giovanni-catalani-2a87a4136/"
 # twitter: daattali
 # patreon: DeanAttali
 # youtube: "@daattali"
@@ -84,7 +84,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: This is my personal website
 
 ###########################
 # --- General options --- #
@@ -100,7 +100,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "giovannicatalani.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true

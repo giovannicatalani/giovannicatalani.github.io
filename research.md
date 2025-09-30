@@ -5,7 +5,7 @@ title: Research
 
 ## Publications
 ### Geometry aware inference of steady state PDEs using Equivariant Neural Fields representations (2025)
-*Arxiv Preprint, Under Review*
+*Neurips 2025, AI for Science Workshop*
 
 ![enf2enf paper cover](/assets/img/enf2enf_cover-1.png){: width="700px" }
 
